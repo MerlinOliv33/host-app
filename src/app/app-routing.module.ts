@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
 // const MFE_APP_URL = "http://localhost:4300/remoteEntry.js";
-const MFE_APP_URL = "https://mfe-app-one.verecel.app/";
+const MFE_APP_URL = "https://mfe-app-one.vercel.app/remoteEntry.js";
 
 const routes: Routes = [
   {
